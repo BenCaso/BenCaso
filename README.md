@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on nothing yet...
 - 🌱 I’m currently learning how to use GitHub
-- 👯 I’m looking to collaborate on GotHub projects
+- 👯 I’m looking to collaborate on GitHub projects
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about My GitHub Projects
 - 📫 How to reach me: bcaso24@berkshireschool.org
